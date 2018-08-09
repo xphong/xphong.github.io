@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Phong Huynh - Software Developer</title>
+    <title>Categories on Software Developer</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Phong Huynh - Software Developer</description>
+    <description>Recent content in Categories on Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -11,20 +11,29 @@
     
     
     <item>
-      <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Learning</title>
+      <link>/categories/learning/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>/categories/learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Posts</title>
+      <link>/categories/posts/</link>
+      <pubDate>Sat, 16 Dec 2017 09:20:12 +0000</pubDate>
       
-      <guid>/categories/golang/</guid>
+      <guid>/categories/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/categories/programming/</guid>
       <description></description>
     </item>
     
@@ -34,6 +43,15 @@
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
       <guid>/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/categories/web-development/</link>
+      <pubDate>Sun, 12 Nov 2017 11:54:12 +0000</pubDate>
+      
+      <guid>/categories/web-development/</guid>
       <description></description>
     </item>
     

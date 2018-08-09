@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Umvc3 on Software Developer</title>
+    <link>/tags/umvc3/</link>
+    <description>Recent content in Umvc3 on Software Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 10 Nov 2012 13:59:06 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/umvc3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Early Morning Thoughts</title>
+      <link>/blog/2012-11-10-early-morning-thoughts/</link>
+      <pubDate>Sat, 10 Nov 2012 13:59:06 +0000</pubDate>
+      
+      <guid>/blog/2012-11-10-early-morning-thoughts/</guid>
+      <description>ASP.NET The assignment asked to make two separate .aspx pages. The first page uses a data bound control loaded with information from a table in the database. When the user clicks on the data, it essentially loads the full details of the selected data. The second page uses templates to allow for INSERT, UPDATE, and DELETE for the table. I spent all day googling how to create a button that dynamically loads another data bound control without using the autogenerate button.</description>
+    </item>
+    
+  </channel>
+</rss>
